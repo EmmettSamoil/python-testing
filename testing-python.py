@@ -6,3 +6,13 @@ two = 2
 three = 2 + 1 
 # Print the assaigned value of 3
 print(three)
+
+#List of Fruits
+fruits = ['apple', 'banana', 'cherry']
+for x in fruits:
+    print(x)
+
+if three > two:
+    print('three is greater')
+else:
+    print("three is less")
