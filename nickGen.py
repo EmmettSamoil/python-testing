@@ -1,3 +1,4 @@
+#this project was started before we had instructions, that is why there is no menu currently.
 import random
 ready = ''
 mylist = ["Blood", "Gunna", "Bo"]
