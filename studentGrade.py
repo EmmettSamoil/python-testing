@@ -28,8 +28,10 @@ if selection == 3:
     print(f"Lowest Grade: {lowGrade}")
     print(f"Average Grade: {avgGrade}")
 if selection == 4: 
+    n = 0
     for i in randGrades:
         if i >= 80:
-         print(i)
+            n += 1
+    print(n)
 if selection == 5:
     print("")
