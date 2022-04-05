@@ -1,5 +1,5 @@
 class character:
-    #
+    #initialize class
     def __init__(self, name, phrase1, phrase2):
         self.name = name
         self.phrase1 = phrase1
